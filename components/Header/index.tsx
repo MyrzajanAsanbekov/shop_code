@@ -5,7 +5,7 @@ import { FaRegHeart } from "react-icons/fa6";
 import { SlBasket } from "react-icons/sl";
 import { FaChevronDown } from "react-icons/fa";
 import Link from 'next/link';
-import Home from '../Home';
+import Home from '../HomePage';
 
 
 const Header: React.FC = () => {
@@ -28,10 +28,10 @@ const Header: React.FC = () => {
         </div>
         <div className="header-nav">
         <div className="nav">
-          <Link href='/' legacyBehavior><a> Home</a></Link>
-          <Link href='/contact' legacyBehavior><a > Contact</a></Link>
-        <a href=''> About</a>
-        <a href=''> Sign Up</a>
+          <Link href='/'>Home</Link>
+          <Link href='/contact'>Contact</Link>
+          <Link href="/about"> About</Link>
+          <Link href="/singup"> Sign Up</Link>
         </div>
         </div>
         <div className="icons">
@@ -49,6 +49,7 @@ const Header: React.FC = () => {
           </a>
         </div>
       </div>
+      <hr className='hrHeader'/>
     </div>
    </div>
   );
