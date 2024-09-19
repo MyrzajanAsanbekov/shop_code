@@ -1,0 +1,87 @@
+.blockm {
+    margin-left: 110px;
+    background: #000000;
+    width: 1220px;
+    height: 470px;
+    border-radius: 5px;
+    
+}
+.music {
+    margin-top: 100px;
+}
+.music-text {
+    position: relative;
+}
+
+.music-text h3 {
+position: absolute;
+top: 80px;
+left: 50px;
+color: #00FF66;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+}
+.time-text {
+    width: 62px;
+height: 62px;
+background: #d1d0d0;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.time-text h2 {
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+}
+.time-text span {
+font-size: 11px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+
+}
+
+.music-text h1 {
+position: absolute;
+top: 150px;
+left: 50px;
+color: #FAFAFA;
+font-size: 48px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0.04em;
+text-align: left;
+}
+.music-time {
+display: flex;
+gap: 20px;
+position: absolute;
+top: 300px;
+left: 50px;
+}
+.music-time button {
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    font-size: 16px;
+background: #00FF66;
+width: Hug (171px)px;
+height: Hug (56px)px;
+padding: 16px 48px 16px 48px;
+gap: 10px;
+border-radius: 4px 0px 0px 0px;
+color: white;
+}
+
+.music-img {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 40px;
+    width: 504px;
+}

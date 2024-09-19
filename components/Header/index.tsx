@@ -41,12 +41,14 @@ const Header: React.FC = () => {
             <IoSearchOutline />
            </a>          
           </div>
+          <div className="icona">
           <a>
           <FaRegHeart />
           </a>
           <a>
           <SlBasket />
           </a>
+          </div>
         </div>
       </div>
       <hr className='hrHeader'/>

@@ -51,23 +51,27 @@
 }
 
 .inputs input {
-    position: relative;
+    display: flex;
+    align-items: center;
     width: 210px;
     padding: 10px;
     background: rgb(239, 239, 239);
     outline: none;
     border: none;
 }
+.inputs {
+    position: relative;
+}
 .inputs a {
     position: absolute;
-    top: 105px;
-    right: 209px;
+    bottom: 0px;
+    right: 5px;
     font-size: 25px;
 }
-
-.icons a {
-    font-size: 23px;
+.icona a {
+ margin: 0 6px;
 }
+
 .hrHeader {
     margin: 20px 0;
 }
