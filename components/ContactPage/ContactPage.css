@@ -1,0 +1,113 @@
+.contact-nav {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 80px;
+    gap: 14px;
+}
+
+.contact-call {
+margin-left: 140px;
+margin-top: 130px;
+}
+
+.call {
+display: flex;
+align-items: center;
+gap: 20px;
+}
+.call h3 {
+font-size: 18px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+}
+.call-text {
+    margin-top: 20px;
+}
+
+.call-text p {
+    margin-bottom: 20px;
+}
+
+.contact-hr {
+    width: 280px;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.contact-email {
+    margin-left: 140px;
+    margin-top: 60px;
+}
+.sms {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.sms h3 {
+    font-size: 18px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+}
+
+.email-text p {
+margin: 27px 0;
+}
+
+
+.contact-df {
+    display: flex;
+    align-items: center; 
+    gap: 130px; 
+}
+.input-paragraf {
+    position: absolute;
+    left: 550px;
+    top: 480px;
+}
+.input-paragraf input {
+width: 737px;
+border-radius: 4px;
+padding: 10px 10px 170px;
+border: none;
+outline: none;
+background: rgb(234, 234, 234);
+font-size: 16px;
+}
+
+.contact-inputs {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 280px;
+}
+
+.contact-inputs input {
+    width: 220px;
+    height: 50px;
+    outline: none;
+    border: none;
+    background: rgb(234, 234, 234);
+    padding: 0px 10px;
+    font-size: 16px
+}
+
+.contact-button {
+    position: absolute;
+    right: 210px;
+    top: 730px;
+    width: Hug (215px)px;
+    height: Hug (56px)px;
+    padding: 16px 48px 16px 48px;
+    border-radius: 4px;
+    font-size: 16px;
+    background: rgba(219, 68, 68, 1);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
