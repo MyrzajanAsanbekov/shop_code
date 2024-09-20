@@ -3,15 +3,18 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/hooks';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import LoginPage from '@/components/LoginPage';
 
-const LoginPage: React.FC = () => {
+const Login: React.FC = () => {
 
   return (
     <>
       <Header />
-      
+      <LoginPage/>
+      <Footer/>
     </>
   );
 };
 
-export default LoginPage;
+export default Login;

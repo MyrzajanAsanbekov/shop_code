@@ -1,0 +1,113 @@
+.signup-img {
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 100px;
+}
+.account {
+    margin-right: 250px;
+}
+
+.account-inputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-button button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.account h1 {
+font-size: 36px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0.04em;
+text-align: left;
+margin-bottom: 30px;
+}
+
+.account p {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+margin-bottom: 30px;
+}
+
+.account-inputs input {
+    border: none;
+    width: 350px;
+border-bottom: 2px solid gray;
+margin: 20px 0px;
+font-size: 20px;
+outline: none;
+padding: 10px 0px;
+}
+
+.icon-button button {
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: white;
+background: rgba(219, 68, 68, 1);
+width: 371px;
+height: 56px;
+border-radius: 4px;
+border: none;
+margin-bottom: 30px;
+font-size: 20px;
+}
+
+.google-button {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+width: 371px;
+height: 56px;
+border-radius: 4px;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+}
+
+.create-login {
+display: flex;
+justify-content: center;
+gap: 30px;
+margin-top: 50px;
+}
+
+.create-login a {
+font-size: 17px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: black;
+}
+
+.create-login p {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+
+.create-login span {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: black;
+    font-size: 26px;
+    margin-left: 280px;
+    }
+
+
+    .google-button a {
+        font-size: 30px;
+    }

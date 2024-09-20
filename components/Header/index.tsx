@@ -30,8 +30,8 @@ const Header: React.FC = () => {
         <div className="nav">
           <Link href='/'>Home</Link>
           <Link href='/contact'>Contact</Link>
-          <Link href="/about"> About</Link>
-          <Link href="/singup"> Sign Up</Link>
+          <Link href='/about'> About</Link>
+          <Link href='/singup'> Sign Up</Link>
         </div>
         </div>
         <div className="icons">
