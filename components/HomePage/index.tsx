@@ -40,7 +40,7 @@ const HomePage: React.FC = () => {
                  <Image src={apple} alt='img'/>
                  <h2>iPhone 14 Series</h2>
                  <h1>Up to 10% <br /> off Voucher</h1>
-                 <div className="btn">
+                 <div className="btns">
                  <a>Shop Now</a>
                  <hr className='blockHr' noshade size="2" width="9%"></hr>
                  <span><GrLinkNext /></span>

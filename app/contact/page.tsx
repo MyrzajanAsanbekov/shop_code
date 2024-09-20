@@ -1,4 +1,5 @@
 'use client';
+import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 
 
@@ -8,7 +9,7 @@ const Contact: React.FC = () => {
     <>
       <Header />
     
-     
+     <Footer/>
     </>
   );
 };

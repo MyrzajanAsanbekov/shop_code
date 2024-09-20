@@ -1,0 +1,130 @@
+.footers {
+    display: flex;
+    justify-content: center;
+    gap: 115px;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    color: white;
+    margin-top: 100px;
+    padding: 50px 0;
+}
+
+.footer-exl h2 {
+    margin-bottom: 20px;
+   font-size: 24px;
+}
+.footer-exl h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-exl p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.input {
+    position: relative;
+}
+.input input {
+    width: 210px;
+    height: 40px;
+    background: none;
+    outline: none;
+    border: 2px solid white;
+    padding: 0px 7px;
+    color: white;
+}
+
+.input a {
+    position: absolute;
+    top: 10px;
+    left: 194px;
+    font-size: 22px;
+}
+
+.footer-support h1 {
+font-size: 20px;
+margin-bottom: 25px;
+}
+.footer-support h2 {
+    font-size: 16px;
+    font-weight: 400;
+margin-bottom: 25px;
+    
+}
+.footer-support h3 {
+    font-size: 16px;
+    font-weight: 400;
+margin-bottom: 25px;
+ 
+}
+
+.footer-support h4 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-acc h1 {
+font-size: 20px;
+margin-bottom: 25px;
+}
+.footer-acc h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+
+
+.footer-links h1 {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.footer-links h2 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.footer-app h1 {
+font-size: 20px;
+margin-bottom: 25px;
+}
+.footer-app span {
+    font-size: 12px;
+    color: gray;
+}
+.qrcode {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.app-store {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.icons a {
+margin-top: 30px;
+font-size: 25px;
+}
+
+.rimel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    gap: 10px;
+}
+.rimel a {
+    color: gray;
+   font-size: 20px;
+   margin-top: 5px;
+}
+.rimel span {
+    color: gray;
+    font-weight: 400;
+}

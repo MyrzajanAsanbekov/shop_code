@@ -22,7 +22,7 @@ const HomePage4 = () => {
                     </div>
                     <div className="product-text">
                         <h1>Best Selling Products</h1>
-                        <button>View All</button>
+                        <button className='btn'>View All</button>
                     </div>
                     <div className="product-blocks">
                         <div className="cloth-blokcs">
