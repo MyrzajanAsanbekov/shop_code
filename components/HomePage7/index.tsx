@@ -65,6 +65,8 @@ const Homepage7 = () => {
                                             <h1>Perfume</h1>
                                             <p>GUCCI INTENSE OUD EDP</p>
                                             <a>Shop Now</a>
+                                            <hr noshade size="2" width="31%"></hr>
+
                                         </div>
                                     </div>
                                 </div>
