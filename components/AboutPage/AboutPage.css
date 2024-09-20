@@ -1,0 +1,135 @@
+.about-nav {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+    gap: 20px;
+}
+
+.about-story {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.about-text {
+    margin-left: 100px;
+}
+
+.about-text p {
+    margin: 25px 0px;
+    line-height: 30px;
+}
+
+.about-text h1 {
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 0.06em;
+}
+.about-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 140px;
+}
+
+.about-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 220px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.about-home h2 {
+    margin: 10px 0px;
+
+}
+
+.about-home p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.about-home-red {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 220px;
+    height: 200px;
+    background: rgba(219, 68, 68, 1);
+    border-radius: 5px;
+}
+
+.about-home-red h2 {
+    margin: 10px 0px;
+}
+.working-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 150px;
+}
+
+.chairman h1 {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.chairman p {
+    margin-bottom: 10px;
+}
+
+.about-icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.chairman a {
+    font-size: 20px;
+}
+
+.managing h2 {
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+}
+
+.managing p {
+margin-bottom: 10px;
+}
+
+.about-icon a {
+    font-size: 20px;
+}
+
+.product-director h2 {
+margin-bottom: 10px;
+margin-top: 20px;
+
+}
+
+.product-director p {
+    margin-bottom: 10px;
+}
+.dot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.dot1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: gray;
+}
