@@ -30,6 +30,8 @@ const HomePage4 = () => {
                             <Image src={womencloth} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn3'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>The north coat</h1>
@@ -52,6 +54,8 @@ const HomePage4 = () => {
                             <Image src={womencloth} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn3'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>The north coat</h1>
@@ -74,6 +78,8 @@ const HomePage4 = () => {
                             <Image src={womencloth} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn3'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>The north coat</h1>
@@ -96,6 +102,8 @@ const HomePage4 = () => {
                             <Image src={womencloth} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn3'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>The north coat</h1>

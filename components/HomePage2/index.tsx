@@ -56,6 +56,8 @@ const HomePage2 = () => {
                     <div className="percent">-40%</div>
                     <a className="eyes"><IoEyeOutline /></a>
                     <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn2'>Add To Cart</button>
+                    
                    </div>
                    <div className="img-text">
                    <h1>HAVIT HV-G92 Gamepad</h1>
@@ -77,6 +79,8 @@ const HomePage2 = () => {
                     <div className="percent">-30%</div>
                     <a className="eyes"><IoEyeOutline /></a>
                     <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn2'>Add To Cart</button>
+
                    </div>
                    <div className="img-text">
                    <h1>HAVIT HV-G92 Gamepad</h1>
@@ -97,6 +101,8 @@ const HomePage2 = () => {
                     <div className="percent">-35%</div>
                     <a className="eyes"><IoEyeOutline /></a>
                     <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn2'>Add To Cart</button>
+
                    </div>
                    <div className="img-text">
                    <h1>HAVIT HV-G92 Gamepad</h1>
@@ -118,6 +124,8 @@ const HomePage2 = () => {
                     <div className="percent">-25%</div>
                     <a className="eyes"><IoEyeOutline /></a>
                     <a className="heart"><FaRegHeart /></a>
+                    <button className='hover-btn2'>Add To Cart</button>
+
                    </div>
                    <div className="img-text">
                    <h1>HAVIT HV-G92 Gamepad</h1>

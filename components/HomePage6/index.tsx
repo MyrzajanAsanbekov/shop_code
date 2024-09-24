@@ -40,6 +40,7 @@ const HomePage6 = () => {
                             <Image src={dog} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -55,6 +56,8 @@ const HomePage6 = () => {
                             <Image src={addcamera} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+                            
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -70,6 +73,8 @@ const HomePage6 = () => {
                             <Image src={pk} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -85,6 +90,8 @@ const HomePage6 = () => {
                             <Image src={rumka} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -102,6 +109,8 @@ const HomePage6 = () => {
                             <Image src={car} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -117,6 +126,8 @@ const HomePage6 = () => {
                             <Image src={zoombts} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -132,6 +143,8 @@ const HomePage6 = () => {
                             <Image src={usbsony} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
+
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
@@ -147,6 +160,7 @@ const HomePage6 = () => {
                             <Image src={jacket} alt="img"/>
                             <a className="eyes"><IoEyeOutline /></a>
                             <a className="heart"><FaRegHeart /></a>
+                        <button className='hover-btn'>Add To Cart</button>
                         </div>
                         <div className="img-text">
                             <h1>Breed Dry Dog Food</h1>
