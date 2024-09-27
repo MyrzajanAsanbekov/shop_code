@@ -2,15 +2,17 @@ import React from 'react';
 import "../HomePage3/HomePage3.css"
 import { GrLinkNext } from "react-icons/gr";
 import { GrLinkPrevious } from "react-icons/gr";
-import iphone from "../../public/assets/iphone.png"
-import Image from 'next/image';
-import televizor from "../../public/assets/televizor.png"
-import watch from "../../public/assets/watch.png"
-import camera from "../../public/assets/camera.png"
-import head from "../../public/assets/head.png"
-import gaming from "../../public/assets/gamepad.png"
+import { IoIosPhonePortrait } from "react-icons/io";
+import { HiOutlineTv } from "react-icons/hi2";
+import { TbDeviceWatchStats } from "react-icons/tb";
+import { IoMdHeadset } from "react-icons/io";
+import { SiYoutubegaming } from "react-icons/si";
+import { MdOutlinePhotoCamera } from "react-icons/md";
+
+
 
 const HomePage3 = () => {
+
     return (
         <div id='category'>
             <div className="container">
@@ -31,38 +33,38 @@ const HomePage3 = () => {
                     <div className="category-blocks">
                         <div className="cgblock">
                            <div className="img-teg">
-                           <Image src={iphone} alt="img"/>
+                           <a><IoIosPhonePortrait /></a>
                            <h3>Phones</h3>
                            </div>
                         </div>
                           <div className="cgblock">
                           <div className="img-teg">
-                           <Image src={televizor} alt="img"/>
-                           <h3>Phones</h3>
+                           <a><HiOutlineTv /></a>
+                           <h3>Computers</h3>
                            </div>
                           </div>
                          <div className="cgblock">
                          <div className="img-teg">
-                           <Image src={watch} alt="img"/>
-                           <h3>Phones</h3>
+                           <a><TbDeviceWatchStats /></a>
+                           <h3>SmartWatch</h3>
                            </div>
                          </div>
-                           <div className="camera-block">
+                           <div className="cgblock">
                            <div className="img-teg">
-                           <Image src={camera} alt="img"/>
-                           <h3>Phones</h3>
+                           <a><MdOutlinePhotoCamera /></a>
+                           <h3>Camera</h3>
                            </div>
                            </div>
                           <div className="cgblock">
                           <div className="img-teg">
-                           <Image src={head} alt="img"/>
-                           <h3>Phones</h3>
+                           <a><IoMdHeadset /></a>
+                           <h3>HeadPhones</h3>
                            </div>
                           </div>
                            <div className="cgblock">
                            <div className="img-teg">
-                           <Image src={gaming} alt="img"/>
-                           <h3>Phones</h3>
+                           <a><SiYoutubegaming /></a>
+                           <h3>Gaming</h3>
                            </div>
                            </div>
                     </div>

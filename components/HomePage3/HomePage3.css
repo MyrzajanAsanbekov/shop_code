@@ -12,6 +12,8 @@
     background: #DB4444;
     border-radius: 3px;
 }
+
+
 .categor-h5 {
     color: #DB4444;
 }
@@ -43,19 +45,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 5px;
 }
-.camera-block {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 160px;
-    height: 130px;
-    border: 1px solid white;
+
+.cgblock:hover {
     background: #DB4444;
+   cursor: pointer;
+   color: white;
+   border: none;
+}
+
+.img-teg a {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 10px;
+    font-size: 60px;
 }
 
 .img-teg h3 {
     font-size: 16px;
     font-weight: 400;
-    margin-top: 10px;
 }
